@@ -8,7 +8,9 @@
 - Web框架从Tornado修改为流行的的FastAPI+Uvicorn的方式
 # 如何运行
 (开发环境为Python3.10,为免异常请使用这个版本)
+
 1.下载源码
+
 2.创建并激活虚拟环境(可选)
 ```
 python -m venv myenv
