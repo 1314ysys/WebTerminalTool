@@ -1,0 +1,11 @@
+.xterm.fullscreen{position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    width:auto;
+    height:auto;
+    font-size: 14px;  /* 设置字体大小 */
+    font-family: 'Courier New', Courier, monospace;  /* 设置等宽字体 */
+    z-index:255}
+/*# sourceMappingURL=fullscreen.min.css.map */
