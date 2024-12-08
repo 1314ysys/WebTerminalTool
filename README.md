@@ -6,6 +6,10 @@
 - 增加了对于**Telnet**协议的支持
 - 移除了Jquery.js的依赖，使用Javascripts原生语法
 - Web框架从Tornado修改为流行的的FastAPI+Uvicorn的方式
+# 预览
+![ssh](https://github.com/1314ysys/WebTerminalTool/blob/176d4148a29ff7bca93f2deab53f3dc3bc536dd2/preview/image.png)
+![ssh_login](https://github.com/1314ysys/WebTerminalTool/blob/176d4148a29ff7bca93f2deab53f3dc3bc536dd2/preview/ssh%20login.png)
+![telnet_login](https://github.com/1314ysys/WebTerminalTool/blob/176d4148a29ff7bca93f2deab53f3dc3bc536dd2/preview/telnet%20login.png)
 # 如何运行
 (开发环境为Python3.10,为免异常请使用这个版本)
 
