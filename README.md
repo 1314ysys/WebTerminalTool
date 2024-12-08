@@ -1,7 +1,7 @@
 # WebTerminalTool
 这是一个简单的支持**ssh**协议与**telnet**协议的web终端。适合集成到各类需要远程连接的管理后台网站。
 
-*!!!本项目修改自 https://github.com/WalkerWang731/WebTerminal 的工程。!!!*
+*!本项目修改自 https://github.com/WalkerWang731/WebTerminal 的工程。*
 # 修改详情
 - 增加了对于**Telnet**协议的支持
 - 移除了Jquery.js的依赖，使用Javascripts原生语法
