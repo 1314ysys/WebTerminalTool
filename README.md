@@ -6,6 +6,7 @@
 - 增加了对于**Telnet**协议的支持
 - 移除了Jquery.js的依赖，使用Javascripts原生语法
 - Web框架从Tornado修改为流行的的FastAPI+Uvicorn的方式
+- 支持多用户多线程运行
 # 预览
 ssh登录
 ![ssh_login](https://github.com/1314ysys/WebTerminalTool/raw/176d4148a29ff7bca93f2deab53f3dc3bc536dd2/preview/ssh%20login.png)
