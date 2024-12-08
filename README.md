@@ -14,6 +14,8 @@
 2.创建并激活虚拟环境(可选)
 ```
 python -m venv myenv
+```
+```
 myenv\Scripts\activate
 ```
 3.安装依赖
